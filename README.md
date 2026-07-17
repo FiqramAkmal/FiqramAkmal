@@ -60,6 +60,8 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-D0021B?style=for-the-badge&logo=sqlite&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
