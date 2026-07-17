@@ -8,7 +8,7 @@
 
 <br>
 
-<img width="30%" align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img width="30%" align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 ## 👋 About Me
 
@@ -21,8 +21,8 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 - 🎓 **BE, Electrical Engineering** — Universitas Padjadjaran
 - 🛡️ **Bug Hunter** | **Vulnerability Researcher** | **IoT & Embedded Developer**
 - 🐍 Comfortable with **Python, C/C++**, and embedded platforms like **ESP32**
-- 🖥️ Daily driver: **Windows + WSL2 (Kali Linux)**
-- 🔬 Currently exploring **SCADA/ICS security, SOC/SIEM building, and network security**
+- 🖥️ Daily driver: **Windows + WSL2**
+- 🔬 Currently exploring **IoT, Cyber Security, and Bug Hunting**
 - 📫 Reach me at **fiqram.akmal@gmail.com**
 - ✍️ I write on **[Medium](https://medium.com/@fiqramakmal)**
 
@@ -34,15 +34,13 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 
 <img width="26%" align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
 
-👉 Practicing responsible disclosure & vulnerability research on IoT/SCADA and web applications
-
-👉 Building a personal SOC/SIEM platform (Flask + Wazuh + Suricata + YARA + Supabase)
+👉 Practicing responsible disclosure & vulnerability research
 
 👉 Building embedded/IoT projects around ESP32 & sensor-based systems
 
 👉 Participating in CTFs and bug bounty programs
 
-👉 Studying Control Systems, Signals & Systems, and Electromagnetics
+👉 Studying Internet of Things, Cyber Security, and Networking.
 
 `Currently:` Journey toward becoming a Cybersecurity & IoT Specialist 🚀
 
@@ -69,32 +67,6 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 ![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
----
-
-## 🏆 Certifications
-
-- 🎖️ Ethical Hacker
-- 🎖️ SKF100: Understanding the OWASP® Top 10 Security Threats
-- 🎖️ Introduction to Cybersecurity
-- 🎖️ Sololearn Python Course Certificate
-- 🎖️ Sololearn SQL Course Certificate
-
-## 🥇 Honors & Awards
-
-- 🏅 Certificate of Appreciation — Security Assessment, **Perumda Air Minum Tugu Tirta Kota Malang**
-- 🏅 Certificate of Appreciation — Security Assessment, **DKISP Provinsi Kalimantan Utara**
-- 🏅 Certificate of Appreciation — Voluntary Vulnerability Identification and Protection (VVIP) Program, **Regional Jawa Tengah 2026**
-- 🏅 Certificate of Appreciation — Vulnerability Disclosure, **Institut Teknologi Bandung (ITB)**
-
-## 💼 Experience
-
-**Samsung Innovation Campus — Batch 7** *(Aug 2025 – Dec 2025)*
-Learning AI & IoT applications with Python as part of team FqrmDBL.
-
-**Himpunan Mahasiswa Teknik Elektro UNPAD — Media and Information Staff** *(Feb 2025 – Dec 2025)*
-
----
 
 ## 📊 GitHub Stats
 
