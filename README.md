@@ -8,7 +8,7 @@
 
 <br>
 
-<img width="40%" align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img width="40%" align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 ## 👋 About Me
 
@@ -32,7 +32,7 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 
 ## 🚀 Present Focus
 
-<img width="26%" align="right" src="https://www.unpad.ac.id/wp-content/uploads/2018/04/logo-unpad1.png">
+<img width="26%" align="right" src="./logofa_metallic.png">
 
 👉 Practicing responsible disclosure & vulnerability research
 
@@ -75,7 +75,7 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 <div align="center">
 
 [![Fiqram's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FiqramAkmal&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true)](https://github.com/FiqramAkmal)
-[![GitHub Streak](https://streak-stats.demolab.com?user=FiqramAkmal&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://github.com/FiqramAkmal)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=FiqramAkmal&theme=dark&card_width=450&background=00000000&hide_border=true)](https://github.com/FiqramAkmal)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FiqramAkmal&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/FiqramAkmal)
 
