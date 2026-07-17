@@ -77,7 +77,6 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 <div align="center">
 
 [![Fiqram's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FiqramAkmal&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true)](https://github.com/FiqramAkmal)
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FiqramAkmal&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/FiqramAkmal)
 
 </div>
