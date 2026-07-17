@@ -68,14 +68,16 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![Fiqram's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiqramAkmal&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true)](https://github.com/FiqramAkmal)
+[![Fiqram's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FiqramAkmal&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true)](https://github.com/FiqramAkmal)
 [![GitHub Streak](https://streak-stats.demolab.com?user=FiqramAkmal&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://github.com/FiqramAkmal)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FiqramAkmal&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/FiqramAkmal)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FiqramAkmal&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/FiqramAkmal)
 
 </div>
 
