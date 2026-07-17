@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm **Fiqram Akmal**, an Undergraduate Electrical Engineering student at **Universitas Padjadjaran**, based in Bandung, West Java, Indonesia. I have a strong interest in **cybersecurity** and **IoT**, and I spend most of my time exploring vulnerabilities, practicing responsible disclosure, and building IoT/embedded-based security tools.
+I'm **Fiqram Akmal**, an Undergraduate Electrical Engineering student at **Universitas Padjadjaran**, based in Bandung, West Java, Indonesia. I have a strong interest in **cybersecurity** and **IoT**, and I spend most of my time exploring vulnerabilities, practicing responsible disclosure, and building IoT/embedded-based device.
 
 <details>
   <summary>🔎 More about me</summary>
