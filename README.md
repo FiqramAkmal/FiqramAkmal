@@ -32,7 +32,7 @@ I'm **Fiqram Akmal (`udinx`)**, an Undergraduate Electrical Engineering student 
 
 ## 🚀 Present Focus
 
-<img width="26%" align="right" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
+<img width="26%" align="right" src="https://www.unpad.ac.id/wp-content/uploads/2018/04/logo-unpad1.png">
 
 👉 Practicing responsible disclosure & vulnerability research
 
